@@ -41,6 +41,7 @@
     "moment-timezone": "^0.5.46",
     "notiflix": "^3.2.7",
     "pinia": "^2.1.7",
+    "qrcode": "^1.5.4",
     "slick-carousel": "^1.8.1",
     "socket.io-client": "^4.8.0",
     "vee-validate": "^4.13.2",
